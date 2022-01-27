@@ -1,2 +1,3 @@
 Software Engineering Methods  
-Testing text
+
+![workflow](https://github.com/Cosmin-Ciocan/sem/actions/workflows/main.yml/badge.svg)
